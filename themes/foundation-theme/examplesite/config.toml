@@ -2,7 +2,7 @@ baseurl = "/"
 author = "Howard Colin"
 title = "Hugo Foundation"
 languageCode = "en-us"
-theme = "foundation-theme"
+theme = "hugof"
 enableRobotsTXT = true
 SectionPagesMenu = ["main", "social"]
 
