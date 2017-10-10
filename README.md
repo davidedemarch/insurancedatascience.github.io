@@ -1,2 +1,0 @@
-# insurancedatascience
-Conference stuff
